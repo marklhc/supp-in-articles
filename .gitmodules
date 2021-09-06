@@ -4,3 +4,6 @@
 [submodule "boot-mlm-es-supp"]
 	path = boot-mlm-es-supp
 	url = https://github.com/marklhc/boot-mlm-es-supp
+[submodule "mcaa_supp"]
+	path = mcaa_supp
+	url = https://github.com/marklhc/mcaa_supp.git
