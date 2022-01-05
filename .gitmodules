@@ -7,3 +7,6 @@
 [submodule "mcaa_supp"]
 	path = mcaa_supp
 	url = https://github.com/marklhc/mcaa_supp.git
+[submodule "2spa-inv-supp"]
+	path = 2spa-inv-supp
+	url = https://github.com/marklhc/2spa-inv-supp
