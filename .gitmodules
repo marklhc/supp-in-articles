@@ -10,3 +10,9 @@
 [submodule "2spa-inv-supp"]
 	path = 2spa-inv-supp
 	url = https://github.com/marklhc/2spa-inv-supp
+[submodule "fmacs-supp"]
+	path = fmacs-supp
+	url = https://github.com/marklhc/fmacs-supp
+[submodule "bayes-ace-ordinal-supp"]
+	path = bayes-ace-ordinal-supp
+	url = https://github.com/marklhc/bayes-ace-ordinal-supp.git
