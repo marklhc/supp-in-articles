@@ -16,3 +16,6 @@
 [submodule "bayes-ace-ordinal-supp"]
 	path = bayes-ace-ordinal-supp
 	url = https://github.com/marklhc/bayes-ace-ordinal-supp.git
+[submodule "2spa-random-slopes-supp"]
+	path = 2spa-random-slopes-supp
+	url = https://github.com/marklhc/2spa-random-slopes-supp.git
